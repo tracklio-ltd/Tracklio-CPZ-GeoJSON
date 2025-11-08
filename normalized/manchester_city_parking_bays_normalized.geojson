@@ -1,0 +1,480 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brick Street - 3 bays",
+        "type": "Disabled parking bays",
+        "address": "Off Thomas Street, Northern Quarter",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 3,
+        "location": "53.48417373296113,-2.2372305393218994",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2372305393219,
+          53.4841737329611,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brown Street - 3 bays",
+        "type": "Disabled parking bays",
+        "address": "Outside Post Office",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 3,
+        "location": "53.481687038263786,-2.241339683532715",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24133968353271,
+          53.4816870382638,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chapel Walks - 6 bays",
+        "type": "Disabled parking bays",
+        "address": "Off Cross  Street",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 6,
+        "location": "53.48169980728667,-2.243828773498535",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24382877349854,
+          53.4816998072867,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheapside - 2 bays",
+        "type": "Disabled parking bays",
+        "address": "Off King Street, outside Lloyds TSB bank",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 2,
+        "location": "53.48117627419747,-2.244107723236084",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24410772323608,
+          53.4811762741975,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chorlton Street - 7 bays",
+        "type": "Disabled parking bays",
+        "address": "Opposite Churchills pub",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 7,
+        "location": "53.47677067888391,-2.234816551208496",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2348165512085,
+          53.4767706788839,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolefield - 4 bays",
+        "type": "Disabled parking bays",
+        "address": "Off Bridge Street, outside Shimla Pinks and the law courts",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 4,
+        "location": "53.481163505017044,-2.2512316703796387",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.25123167037964,
+          53.481163505017,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fountain Street - 3 bays",
+        "type": "Disabled parking bays",
+        "address": "outside Primark",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 3,
+        "location": "53.48144442609903,-2.23996639251709",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.23996639251709,
+          53.481444426099,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Street - 2 bays",
+        "type": "Disabled parking bays",
+        "address": "Near crossroads with Thomas Street",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 2,
+        "location": "53.48432375994283,-2.2374558448791504",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.23745584487915,
+          53.4843237599428,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Market Street - 5 bays",
+        "type": "Disabled parking bays",
+        "address": "Opposite Marks and Spencers",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 5,
+        "location": "53.48300222743128,-2.244279384613037",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24427938461304,
+          53.4830022274313,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Street - 7 bays",
+        "type": "Disabled parking bays",
+        "address": "Mount Street, behind the Central library",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 7,
+        "location": "53.47795963358749,-2.2454147104507456",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24541471045075,
+          53.4779596335875,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norfork Street - 8 bays",
+        "type": "Disabled parking bays",
+        "address": "Behind Tesco's, outside the blood donor clinic",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 8,
+        "location": "53.481999878217756,-2.2422516345977783",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24225163459778,
+          53.4819998782178,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxford Road Station ",
+        "type": "Disabled parking bays",
+        "address": "Outside the Cornerhouse",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 0,
+        "location": "53.47413987341371,-2.241940498352051",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24194049835205,
+          53.4741398734137,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Street/Lincoln Square - 1 bay",
+        "type": "Disabled parking bays",
+        "address": "Off Deansgate, and Brazennose Street",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 1,
+        "location": "53.479559346156066,-2.2472968697547913",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24729686975479,
+          53.4795593461561,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spring Gardens - 1 bay",
+        "type": "Disabled parking bays",
+        "address": "Outside Post Office",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 1,
+        "location": "53.48062719596798,-2.242112159729004",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.242112159729,
+          53.480627195968,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Ann Street- 4 bays",
+        "type": "Disabled parking bays",
+        "address": "Off St Anns Square, near GAP",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 4,
+        "location": "53.481661500206506,-2.2451162338256836",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24511623382568,
+          53.4816615002065,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Ann Street- 5 bays",
+        "type": "Disabled parking bays",
+        "address": "Off St Anns Square, near Russell and Bromley",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 5,
+        "location": "53.48191688008747,-2.246060371398926",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24606037139893,
+          53.4819168800875,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Mary's Street - 5 bays",
+        "type": "Disabled parking bays",
+        "address": "Off Deansgate, side of Kendals",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 5,
+        "location": "53.482223333915385,-2.2475624084472656",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24756240844727,
+          53.4822233339154,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tib Street - 2 bays",
+        "type": "Disabled parking bays",
+        "address": "Outside Sachas, side of Debenhams",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 2,
+        "location": "53.482146720665924,-2.237863540649414",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.23786354064941,
+          53.4821467206659,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "York Street ",
+        "type": "Disabled parking bays",
+        "address": "Type: Disabled parking baysContact: Run by: Manchester City CouncilOpening hours: 24hrsLocation: 53.48083150497655,-2.2408461570739746",
+        "hours": "24hrs",
+        "restriction": "",
+        "tariff": "",
+        "bays": 0,
+        "location": "53.48083150497655,-2.2408461570739746",
+        "contact": "",
+        "run_by": "Manchester City Council",
+        "council": "Manchester",
+        "source": "manchester_city_parking_bays.geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24084615707397,
+          53.4808315049765,
+          0
+        ]
+      }
+    }
+  ]
+}
